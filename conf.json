@@ -1,0 +1,28 @@
+{
+    "semester": "spring_19",
+    "participant_count": 300, 
+    "input": "raw/topc_sp19.csv",
+    "number_rooms": 9,
+    "number_seat_per_room": 35,
+    "column_count": 8,
+    "row_count": 5,
+    "room_numbers":[
+        "601",
+        "602",
+        "701",
+        "702",
+        "801",
+        "802",
+        "901",
+        "902",
+        "903",
+        "101"
+    ],
+    "params": [
+        "seatplanrange",
+        "roomwise",
+        "tshirtcount",
+        "registrationgraph"
+    ],
+    "outpath": "outputs/"
+}
