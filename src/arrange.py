@@ -137,7 +137,7 @@ class Arrange:
                 #     # print(len(assigned))  
                 #     # print(rand)
                 #     # llln = input()
-                room.set_value(index, 'pc', rand)
+                room.set_value[index, 'pc'] = rand
                 # i += 1
                 assigned.append(rand)
 
